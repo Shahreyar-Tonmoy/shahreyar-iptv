@@ -1,0 +1,11 @@
+.video-player::-webkit-controls-timeline {
+    display: none; /* Targets WebKit (Chrome, Safari) */
+  }
+  
+  .video-player::-moz-controls-progress {
+    display: none; /* Targets Firefox progress bar */
+  }
+  
+  .video-player::-cue {
+    display: none; /* Targets captions */
+  }

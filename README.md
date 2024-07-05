@@ -2,7 +2,7 @@ EkusheTV: http://208.86.19.13:81/510.stream/index.m3u8
 
 sony max: http://103.120.172.74:1150
 
-
+http://103.120.172.74:1150/SONYMAX/index.m3u8
 
 channel i : http://208.86.19.13:81/510.stream/index.m3u8
 
@@ -48,6 +48,8 @@ banglatv: https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 boishaki: https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 star movies: http://tv.cloudcdn.me/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+
+musti music: https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/43296b79-319c-4b3b-b67c-fa164c7ab8c4/0.m3u8
 
 
 
