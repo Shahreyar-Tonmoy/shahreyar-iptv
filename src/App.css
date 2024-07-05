@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.player {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.video-player {
+  width: 100%;
+  height: auto;
+}
