@@ -3,7 +3,7 @@ import Player from './Player';
 import './App.css';
 
 function App() {
-  const streamUrl = 'http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6';
+  const streamUrl = 'https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8';
 
   return (
     <div className="App">
