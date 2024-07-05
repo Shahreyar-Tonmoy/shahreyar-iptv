@@ -1,16 +1,16 @@
 [
   {
     "name": "T-Sports",
-    "url": "http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6"
+    "url": "https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6"
   },
-  { "name": "EkusheTV", "url": "http://208.86.19.13:81/510.stream/index.m3u8" },
+  { "name": "EkusheTV", "url": "https://208.86.19.13:81/510.stream/index.m3u8" },
   {
     "name": "Sony Max",
-    "url": "http://103.120.172.74:1150/SONYMAX/index.m3u8"
+    "url": "https://103.120.172.74:1150/SONYMAX/index.m3u8"
   },
   {
     "name": "Channel i",
-    "url": "http://208.86.19.13:81/510.stream/index.m3u8"
+    "url": "https://208.86.19.13:81/510.stream/index.m3u8"
   },
   {
     "name": "Cartoon Network",
@@ -52,7 +52,7 @@
     "name": "Wild Earth",
     "url": "https://wildearth-roku.amagi.tv/masterR720P.m3u8"
   },
-  { "name": "Colors", "url": "http://103.120.172.74:1070" },
+  { "name": "Colors", "url": "https://103.120.172.74:1070" },
   {
     "name": "Colors Bangla",
     "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8"
@@ -65,11 +65,11 @@
     "name": "Star Jalsha",
     "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8"
   },
-  { "name": "Zee Cinema", "url": "http://103.120.172.74:4100" },
+  { "name": "Zee Cinema", "url": "https://103.120.172.74:4100" },
 
   {
     "name": "Star Sports 1",
-    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
+    "url": "https://41.205.93.154/STARSPORTS1/index.m3u8"
   },
   {
     "name": "Asian",
@@ -85,7 +85,7 @@
   },
   {
     "name": "Star Movies",
-    "url": "http://tv.cloudcdn.me/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32"
+    "url": "https://tv.cloudcdn.me/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32"
   },
   {
     "name": "Musti Music",
